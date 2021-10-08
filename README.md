@@ -1,1 +1,2 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+My name is Avery and I'm a software/full stack developer. I'm from the United States living in Virginia.
